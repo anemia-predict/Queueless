@@ -1,0 +1,20 @@
+# Build & Binaries
+bin/
+obj/
+node_modules/
+dist/
+build/
+.vs/
+.idea/
+*.user
+
+# Database data
+db_data/
+*.log
+
+# Environment files
+.env
+.env.local
+
+# ML models generated
+backend/QueueLess.Api/MLModels/generated/
